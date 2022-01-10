@@ -1,0 +1,12 @@
+{
+  "add_to_startup": true,
+  "permissions_system": true,
+  "administrator_id": 821092678,
+  "administrator_name": "hxxdraw",
+  "none_stop": true,
+  "use_proxy": false,
+  "access_token": "1431674434:AAH8u34pSpoeLSjzYGJqXiIU0L8CIOW_UxE",
+  "api_service": "https://api.ipdata.co?api-key=",
+  "api_private": "3c4c18885d9b36e02636f1344abb2e868754e019f638ab8f4446bde0",
+  "users": []
+}
